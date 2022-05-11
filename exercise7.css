@@ -4,3 +4,34 @@
   box-sizing: border-box;
 }
 
+.main-visual{
+  height: 400px;
+  width:100%;
+  background-image: url(img/mv7.jpg);
+  background-size:cover;
+  background-position: bottom;
+}
+
+.headline{
+  color:gray;
+  padding:20px;
+}
+
+main{
+  padding:50px 0;
+  width:840px;
+  
+  margin:0 auto;
+}
+
+
+.service1,.service2,.service3,.service4{
+  margin-bottom: 30px;
+  text-align: left;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+p,a{
+  color:#d1d1d1;
+  
+}
